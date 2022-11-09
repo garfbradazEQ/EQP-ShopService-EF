@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopService", "ShopService\ShopService.csproj", "{9DB4FF0F-DAF5-454C-A2B9-52D46B2B590B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ADF90AC6-4F62-498D-990D-500D8F5305EC}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.html = Readme.html
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopServiceUnitTests", "ShopServiceUnitTests\ShopServiceUnitTests.csproj", "{A30A4290-1B32-498B-9406-D5D6F88C1693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DB4FF0F-DAF5-454C-A2B9-52D46B2B590B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB4FF0F-DAF5-454C-A2B9-52D46B2B590B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB4FF0F-DAF5-454C-A2B9-52D46B2B590B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB4FF0F-DAF5-454C-A2B9-52D46B2B590B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A30A4290-1B32-498B-9406-D5D6F88C1693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30A4290-1B32-498B-9406-D5D6F88C1693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30A4290-1B32-498B-9406-D5D6F88C1693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30A4290-1B32-498B-9406-D5D6F88C1693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42CB19D4-8B7D-4213-AE2D-5114F533096A}
+	EndGlobalSection
+EndGlobal
